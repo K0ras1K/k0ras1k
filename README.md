@@ -2,6 +2,10 @@
 
 ## I'm a beginner Minecraft mods Developer
 
-Languages and Tools
+### Languages and Tools
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=social&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-090909?style=social&logo=python)
+![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-090909?style=social&logo=IntelliJIDEA)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=social&logo=visualstudiocode)
 
 Follow Me
