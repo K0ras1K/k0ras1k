@@ -4,6 +4,7 @@
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-090909?style=for-the-badge&logo=IntelliJIDEA)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
