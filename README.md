@@ -1,6 +1,6 @@
 [![Header](https://github.com/K0ras1K/k0ras1k/blob/main/assets/shinobu-winter-gif.gif)](https://k0ras1k.online/)
 
-## K0ras1K - Kotlin dev, Minecraft gamedesigner
+## K0ras1K - Kotlin dev
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
